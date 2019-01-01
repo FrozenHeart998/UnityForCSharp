@@ -1,0 +1,6 @@
+余念麟：GameManager,time,music,SceneChange,UI的设置
+吴笛：EnemySpawn,EnemyPool,SecondEnemyRocket,SecondRocketPool,SaveScore,ScoreMenu
+杨忠森：Enemy,Player,EnemyRocket,爆炸等特效制作，游戏模型导入和调整
+刘一泽：Enemy,Player(有关控制飞机出屏)，Rocket,游戏建模,素材的查找
+孟昊：back,Life,Rocket,RocketRool后期的调试,PPT
+郭庆：buttonsound,Pause,Titlescreen,EnemyRocketPool,UI的设置
